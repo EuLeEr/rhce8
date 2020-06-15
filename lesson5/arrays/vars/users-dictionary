@@ -1,11 +1,14 @@
 users:
-  - username: linda
+  linda:
+    username: linda
     homedir: /home/linda
     shell: /bin/bash
-  - username: lisa
+  lisa:
+    username: lisa
     homedir: /home/lisa
     shell: /bin/bash
-  - username: anna
+  anna:
+    username: anna
     homedir: /home/anna
     shell: /bin/bash
     
